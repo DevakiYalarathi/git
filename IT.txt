@@ -1,0 +1,19 @@
+JD - Job description -summarizes the essential responsibilities of a position,activities,qualifications& skills for a role.
+CTC -Cost to company -total salary package of a employee(adding sal to the cost of all addtional benefits an employee receives during service period).
+CTC = total amt of expense an employer is spending for an employee in a year.
+ETC = expected cost to company (expecting from the organisation in terms of ctc).
+SCRUM = Agile frame work it can helps teams work together. enable teams to learn from experiences,self organize while working on problems, to reflect on victories nd failures to make improvements.
+Scrum Master=(i) understand the theory,practices,rules &values of scrum.
+               (ii) follows the values,principles of scrum.
+USER_STORY = mapping represents and arranges user stories helps with understanding system functionalities,system backlog,planning releases & providing values to cutomers.
+             ensure the team work towards the goals of organization.
+            to provide the team with simple explanations of business requirements created from the end user.
+
+Tasks= used to break down user stories further.smallest unit in scrum that is used to track work.
+Ticketing TOOL = management tool that processes & catalogs customer service requests.
+                used as user-friendly for customer service representatives,managers& Administrators.
+               allows IT support to be organized,focused,efficient&effective.means to support&help to deal with issues in your organization 
+Scheduling Tool =avoid scheduling an interview early/middle of the week/before and after holidays and weekends.most convenient times.
+KT- KT conducting introduction karat interview = 05 stages of an interview, making conversation,gathering informations,performaing the interviews,conculding, introduction.
+Reverse KT = Knowledge  transfer from subsidiary  to head quarters. common process in IT industry.
+          
